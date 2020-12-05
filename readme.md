@@ -4,3 +4,4 @@ git is great created
 git has a mutable index called stage
 what is stage
 what is changes
+to think about git
